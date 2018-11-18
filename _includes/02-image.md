@@ -1,2 +1,2 @@
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Coding image](https://github.com/luvlylavnder/markdown-portfolio/blob/image/_coding.jpg)
